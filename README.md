@@ -1,16 +1,32 @@
-## Hi there 👋
+# Merhaba, ben Emre 👋
 
-<!--
-**z3x0fly/z3x0fly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+27 yaşında, 10 yıldır yazılım mühendisliği yapan bir geliştiriciyim. Yazılım dünyasında kendimi sürekli geliştirmeye çalışıyor ve her zaman yenilikçi projeler üretmeye odaklanıyorum. Oyun teknolojileri, web geliştirme, sunucu yönetimi ve yapay zeka konularında derinlemesine bilgi sahibiyim. Teknolojilerin her yönüyle ilgileniyor, öğrenmeye ve öğretmeye devam ediyorum.
 
-Here are some ideas to get you started:
+## 🚀 Hakkımda
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Şu an **[Octoopus Cloud]** adlı projem üzerinde çalışıyorum.
+- 🌱 **Yapay zeka öğrenme**, **oyun teknolojileri**, **web teknolojileri** ve **sunucu yönetimi** üzerine projeler geliştiriyorum.
+- 🌍 **Linux** ve **Windows** sistem yönetimi konusunda deneyimliyim.
+- 🔄 **C#, Perl, Python, PHP, C++, Lua, Ruby, NodeJS, Flutter, React Native** dillerinde uygulama geliştirebiliyorum.
+- 🕹️ Oyun teknolojileri üzerine çalışıyor ve gerçek zamanlı sistemler geliştirmeyi seviyorum.
+- 🎮 **GameDev**, **WebDev**, **AI/ML**, **DevOps** ve daha birçok alanda katkı sağlıyorum.
+
+## 🔧 Teknolojiler & Araçlar
+
+- **Diller**: C#, Perl, Python, PHP, C++, Lua, Ruby, NodeJS, Flutter, React Native
+- **Veritabanları**: MySQL, MongoDB, SQLite
+- **Araçlar**: Docker, Kubernetes, Git, Jenkins, Visual Studio
+- **Web Teknolojileri**: HTML, CSS, JavaScript, React, Node.js
+- **Sunucu Yönetimi**: Linux, Windows, Apache, Nginx, Docker, CI/CD
+- **Yapay Zeka / Makine Öğrenimi**: TensorFlow, Keras, PyTorch
+- **Oyun Teknolojileri**: Unity, Unreal Engine, Godot
+
+
+## 📢 İletişim
+
+- [LinkedIn]([link](https://www.linkedin.com/in/emre-can-temur-aabb801bb/))
+- [E-posta](hello@emersoft.com.tr)
+
+
+
+> "Kod yazarken eğlenmek, yaptığınız işin en iyi versiyonunu ortaya çıkarmanızı sağlar." – Emre
