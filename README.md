@@ -27,6 +27,10 @@
 - [LinkedIn]([link](https://www.linkedin.com/in/emre-can-temur-aabb801bb/))
 - [E-posta](hello@emersoft.com.tr)
 
+<a href="https://github.com/z3x0fly">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=z3x0fly&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151514" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z3x0fly&layout=compact&langs_count=8&bg_color=151514&text_color=daf7df" />
+</a>
 
 
 > "Kod yazarken eğlenmek, yaptığınız işin en iyi versiyonunu ortaya çıkarmanızı sağlar." – Emre
